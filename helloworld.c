@@ -3,5 +3,6 @@
 
 int main(){
 	 f();
-	return 0;
+	int n=0;
+	return n;
 }
